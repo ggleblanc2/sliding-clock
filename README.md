@@ -2,6 +2,8 @@
 
 ## Introduction
 
+If you’re not familiar with Java Swing, Oracle has an excellent tutorial to get you started, [Creating a GUI With JFC/Swing](https://docs.oracle.com/javase/tutorial/uiswing/index.html). Skip the Netbeans section.
+
 I enjoy making diffrerent clocks using Java Swing.  This is one of those examples.
 
 Here's what the GUI looks like.
